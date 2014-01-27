@@ -1,0 +1,4 @@
+C:\SecureTraining\Function\Function\bin\Function.dll
+C:\SecureTraining\Function\Function\bin\Function.pdb
+C:\SecureTraining\Function\Function\obj\Release\Function.dll
+C:\SecureTraining\Function\Function\obj\Release\Function.pdb

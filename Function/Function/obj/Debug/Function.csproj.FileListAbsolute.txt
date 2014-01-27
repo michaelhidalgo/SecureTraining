@@ -1,0 +1,5 @@
+C:\SecureTraining\Function\Function\bin\Function.dll
+C:\SecureTraining\Function\Function\bin\Function.pdb
+C:\SecureTraining\Function\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+C:\SecureTraining\Function\Function\obj\Debug\Function.dll
+C:\SecureTraining\Function\Function\obj\Debug\Function.pdb

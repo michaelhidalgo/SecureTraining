@@ -1,0 +1,5 @@
+C:\SecureTraining\SqlInjection\SqlInjection\bin\SqlInjection.dll
+C:\SecureTraining\SqlInjection\SqlInjection\bin\SqlInjection.pdb
+C:\SecureTraining\SqlInjection\SqlInjection\obj\Debug\SqlInjection.dll
+C:\SecureTraining\SqlInjection\SqlInjection\obj\Debug\SqlInjection.pdb
+C:\SecureTraining\SqlInjection\SqlInjection\obj\Debug\SqlInjection.csprojResolveAssemblyReference.cache
