@@ -1,0 +1,5 @@
+C:\SecureTraining\RegEx\RegEx\bin\Debug\RegEx.dll
+C:\SecureTraining\RegEx\RegEx\bin\Debug\RegEx.pdb
+C:\SecureTraining\RegEx\RegEx\obj\Debug\RegEx.csprojResolveAssemblyReference.cache
+C:\SecureTraining\RegEx\RegEx\obj\Debug\RegEx.dll
+C:\SecureTraining\RegEx\RegEx\obj\Debug\RegEx.pdb

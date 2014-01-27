@@ -1,0 +1,9 @@
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\RegEx.Test.dll
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\RegEx.Test.pdb
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\nunit.framework.dll
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\RegEx.dll
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\RegEx.pdb
+C:\SecureTraining\RegEx\RegEx.Test\bin\Debug\nunit.framework.xml
+C:\SecureTraining\RegEx\RegEx.Test\obj\Debug\RegEx.Test.csprojResolveAssemblyReference.cache
+C:\SecureTraining\RegEx\RegEx.Test\obj\Debug\RegEx.Test.dll
+C:\SecureTraining\RegEx\RegEx.Test\obj\Debug\RegEx.Test.pdb
