@@ -1,0 +1,23 @@
+@{
+    var context = HttpContext.Current;
+    var request = context.Request;
+    var username = request.QueryString["username"];
+   
+}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" >
+    <title></title>
+</head>
+<body>
+    <p>Datos por HTTP Get</p>
+    <form id="form1" method="Get" action="Get" >
+    <div>
+        <input type ="text" name="username">
+		
+		<input type ="submit" name="btnSubmit" value ="Enviar">
+    </div>
+    </form>
+    <p>Datos procesados : @username</p>
+</body>
+</html>
