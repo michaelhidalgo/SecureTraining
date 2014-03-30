@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="directobjectModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="directobjectEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="votoes" EntityType="directobjectModel.voto" />
+  </EntityContainer>
+  <EntityType Name="voto">
+    <Key>
+      <PropertyRef Name="Cedula" />
+      <PropertyRef Name="Nombre" />
+      <PropertyRef Name="Apellidos" />
+      <PropertyRef Name="Edad" />
+      <PropertyRef Name="Vota" />
+    </Key>
+    <Property Name="Cedula" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Apellidos" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Edad" Type="Int32" Nullable="false" />
+    <Property Name="Vota" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

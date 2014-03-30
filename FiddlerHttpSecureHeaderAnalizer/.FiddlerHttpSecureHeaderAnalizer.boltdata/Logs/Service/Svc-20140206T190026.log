@@ -1,0 +1,243 @@
+2014-02-06T19:00:26: Launching bolt session for C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\.FiddlerHttpSecureHeaderAnalizer.boltdata - SessionId: e4e997b8-a0a5-4b2a-b596-4df74b2d9da8
+2014-02-06T19:00:26: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:26: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:26: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:26: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:26: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:26: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:26: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:27: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:27: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:27: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:27: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:28: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2014-02-06T19:00:28: GET http://127.0.0.1:11235/v1/licensed.json 200 0.035s 
+2014-02-06T19:00:28: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2014-02-06T19:00:28: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:28: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:28: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:28: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:28: Bolt->LoadDocData->Project: CA3377936D0428B87F436BB10404379084498753-Bolt_Agent_VS
+2014-02-06T19:00:28: Bolt->LoadDocData->Execution: 0000000000000000000000000000000000000000
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->HighlightRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:0
+2014-02-06T19:00:28: QueryDocumentDataMessage->ClientReceive->MethodRegions: C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\Class1.cs:True
+2014-02-06T19:00:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:01:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:01:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:02:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:02:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:03:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:03:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:04:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:04:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:05:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:05:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:06:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:06:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:07:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:07:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:08:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:08:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:09:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:09:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:10:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:10:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:11:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:11:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:12:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:12:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:13:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:13:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:14:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:14:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:15:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:15:53: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:16:23: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:16:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:17:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.003s 
+2014-02-06T19:17:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:18:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:18:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:19:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:19:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.009s 
+2014-02-06T19:20:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:20:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:21:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:21:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:22:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:22:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:23:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:23:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:24:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.022s 
+2014-02-06T19:24:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:25:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:25:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:26:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:26:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:27:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:27:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:28:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:28:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:29:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:29:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:30:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:30:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:31:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:31:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:32:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:32:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:33:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:33:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:34:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:34:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:35:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:35:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:36:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:36:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:37:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:37:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:38:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:38:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:39:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:39:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:40:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:40:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:41:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:41:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:42:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:42:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:43:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:43:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:44:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:44:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:45:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:45:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:46:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:46:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:47:04: Failed to contact license server: Object reference not set to an instance of an object.
+2014-02-06T19:47:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:47:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:48:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:48:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:49:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:49:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:50:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:50:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:51:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:51:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.000s 
+2014-02-06T19:52:24: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:52:54: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:53:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:53:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:54:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:54:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:55:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T19:55:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:56:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:56:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:57:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:57:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:58:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:58:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:59:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T19:59:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:00:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:00:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:01:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:01:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.049s 
+2014-02-06T20:02:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:02:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:03:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:03:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:04:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:04:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:05:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:05:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:06:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:06:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:07:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:07:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T20:08:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:08:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:09:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:09:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:10:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:10:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:11:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:11:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:12:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:12:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:13:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:13:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:14:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T20:14:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:15:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:15:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:16:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:16:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:17:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:17:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:18:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:18:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:19:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:19:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:20:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T20:20:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:21:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:21:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:22:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:22:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:23:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:23:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:24:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:24:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:25:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:25:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:26:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:26:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T20:27:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:27:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:28:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:28:55: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:29:25: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:29:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:30:17: Launch Static Analysis Module -- [D91FDBEC2202798F7298A13F8A329A4257C3D7AA] "C:\SecureTraining\FiddlerHttpSecureHeaderAnalizer\FiddlerHttpSecureHeaderAnalizer\bin\Debug\FiddlerHttpSecureHeaderAnalizer.dll"
+2014-02-06T20:30:17: Module Load -- Capture[D91FDBEC2202798F7298A13F8A329A4257C3D7AA] Module "FiddlerHttpSecureHeaderAnalizer.dll"
+2014-02-06T20:30:17: 2014-02-06T20:30:17.3134485-06:00 AnalysisShutdown RECEIVED:  D91FDBEC2202798F7298A13F8A329A4257C3D7AA
+2014-02-06T20:30:17: Analysis Shutdown -- [D91FDBEC2202798F7298A13F8A329A4257C3D7AA]
+2014-02-06T20:30:17: Static capture finalized -- [D91FDBEC2202798F7298A13F8A329A4257C3D7AA] - 62 ms
+2014-02-06T20:30:17: Captures to be updated because of static analysis -- [D91FDBEC2202798F7298A13F8A329A4257C3D7AA] - 0
+2014-02-06T20:30:17: Executions modified because of static analysis -- [D91FDBEC2202798F7298A13F8A329A4257C3D7AA] - 0
+2014-02-06T20:30:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:30:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.025s 
+2014-02-06T20:31:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:31:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:32:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:32:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:33:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:33:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:34:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:34:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:35:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.002s 
+2014-02-06T20:35:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:36:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.010s 
+2014-02-06T20:36:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:37:26: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:37:56: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2014-02-06T20:38:11: Closing bolt session for c:\securetraining\fiddlerhttpsecureheaderanalizer\.fiddlerhttpsecureheaderanalizer.boltdata - SessionId: e4e997b8-a0a5-4b2a-b596-4df74b2d9da8
+2014-02-06T20:47:04: Failed to contact license server: Object reference not set to an instance of an object.
+2014-02-07T06:31:06: Failed to contact license server: Object reference not set to an instance of an object.
+2014-02-07T07:04:42: Stopping NCover server.
+2014-02-07T07:04:42: Shutdown Listener on http://127.0.0.1:11235/
+2014-02-07T07:04:42: Disposing profiler data and shutting down watcher threads.
+2014-02-07T07:04:42: Close pipe communication.
+2014-02-07T07:04:42: Signal shutdown.

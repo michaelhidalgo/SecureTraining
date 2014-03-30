@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    var user = User.Identity.Name;
+   
+}
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/jquery-1.9.1.min.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script type="text/javascript">
+    $(document).ready(function () {
+        var div = $('#result');
+        div.empty();
+        div.hide();
+        $('#btn').click(function () {
+            $.getJSON("/Home/Voto?cedula=11275", null, function (data) {
+                div.show();
+                div.append("<br/>" + "Nombre: " + data['name'] + "<br/>"+"Apellidos: " + data['apellidos'] + "<br/>" + "Edad:" + data['edad'] +"<br/>" + "Vota en: " + data['vota']);
+            });
+        });
+    });
+</script>
+<section class="featured">
+    <div class="content-wrapper">
+        <hgroup class="title">
+            <h1>@ViewBag.Title.</h1>
+            <h2>@ViewBag.Message</h2>
+        </hgroup>
+        <p>
+               
+        </p>
+    </div>
+</section>
+@{
+    if (!String.IsNullOrEmpty(user))
+    {
+        <h3>Bienvenido @user</h3>
+
+        <input type="button" class="ui-button" value="Traer datos" id="btn"/>
+
+        <div id="result" class='alert-info'></div>
+    }
+    else
+    {
+     <div class="alert-danger">Porfavor Ingrese o registrese en el sistema.</div>
+    }
+}
+

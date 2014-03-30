@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveDataExposure", "SensitiveDataExposure\SensitiveDataExposure.csproj", "{90BF6F6A-3035-4B60-BC10-39E0F18A75AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitiveDataExposure.Tests", "SensitiveDataExposure.Tests\SensitiveDataExposure.Tests.csproj", "{68C6A191-CE33-4BE6-B0CB-D20746D83DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BF6F6A-3035-4B60-BC10-39E0F18A75AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BF6F6A-3035-4B60-BC10-39E0F18A75AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BF6F6A-3035-4B60-BC10-39E0F18A75AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BF6F6A-3035-4B60-BC10-39E0F18A75AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C6A191-CE33-4BE6-B0CB-D20746D83DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C6A191-CE33-4BE6-B0CB-D20746D83DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C6A191-CE33-4BE6-B0CB-D20746D83DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C6A191-CE33-4BE6-B0CB-D20746D83DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

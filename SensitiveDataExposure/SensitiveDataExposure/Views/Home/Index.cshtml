@@ -1,0 +1,68 @@
+﻿@using System
+@using System.Web
+@{
+    if(String.IsNullOrEmpty(User.Identity.Name))
+    {
+        Response.Redirect("Account/Login");
+    }
+    var context = HttpContext.Current;
+    var request = context.Request;
+    var nombre = request.Form["nombre"];
+  
+   
+   
+}
+<script src="~/Scripts/bootstrap.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap.min.js"></script>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <form class="form-horizontal" action="Home/Index" method="POST">
+            <div class="control-group">
+                <label class="control-label" for="nombre">Nombre</label>
+                <div class="controls">
+                    <input type="text" id="nombre" name="nombre" placeholder="Nombre">
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="tarjeta">Tarjeta</label>
+                <div class="controls">
+                    <input type="text" id="tarjeta" name="tarjeta" placeholder="Tarjeta">
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="CVV">CVV</label>
+                <div class="controls">
+                    <input type="text" id="CVV" name="cvv" placeholder="CVV">
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="fecha">Fecha de Expiracion</label>
+                <div class="controls">
+                    <input type="text" id="fecha" name="expiracion" placeholder="fecha">
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <button type="submit" class="btn">Procesar Pago</button>
+                </div>
+            </div>
+        </form>
+       @if (!String.IsNullOrEmpty(nombre))
+       {
+           <br/>
+           <p class="alert-info">Muchas gracias @nombre</p>
+       }else
+       {
+           if (IsPost)
+           {
+               <p class="alert-warning">Hubo un problema procesando su tarjeta</p>
+           }
+       }
+    </body>
+</html>

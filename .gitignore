@@ -1,0 +1,11 @@
+/SqlInjection/_ReSharper.SqlInjection
+/SqlInjection/SqlInjection.IsolatorCache.user
+/Function/_ReSharper.Function
+/Function/Function.IsolatorCache.user
+/RegEx/RegEx.IsolatorCache.user
+/RegEx/_ReSharper.RegEx
+/brokenauth/_ReSharper.brokenauth
+brokenauth.IsolatorCache.user
+*.suo
+*.user
+

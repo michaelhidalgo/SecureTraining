@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="directobjectModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="directobjectModelStoreContainer">
+    <EntitySet Name="voto" EntityType="directobjectModel.Store.voto" store:Type="Tables" store:Schema="dbo" store:Name="voto">
+      <DefiningQuery>SELECT 
+      [voto].[Cedula] AS [Cedula], 
+      [voto].[Nombre] AS [Nombre], 
+      [voto].[Apellidos] AS [Apellidos], 
+      [voto].[Edad] AS [Edad], 
+      [voto].[Vota] AS [Vota]
+      FROM [dbo].[voto] AS [voto]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'directobject.dbo.voto' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="voto">
+    <Key>
+      <PropertyRef Name="Cedula" />
+      <PropertyRef Name="Nombre" />
+      <PropertyRef Name="Apellidos" />
+      <PropertyRef Name="Edad" />
+      <PropertyRef Name="Vota" />
+    </Key>
+    <Property Name="Cedula" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Nombre" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Apellidos" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Edad" Type="int" Nullable="false" />
+    <Property Name="Vota" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+</Schema>
