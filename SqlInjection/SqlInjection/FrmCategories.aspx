@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FrmCategories.aspx.cs" Inherits="SqlInjection.FrmCategories" %>
-
+<script src="Scripts/bootstrap.js"></script>
+<script src="Scripts/bootstrap.min.js"></script>
+<link href="Content/bootstrap.min.css" rel="stylesheet" />
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -7,25 +9,28 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:GridView ID="dgCategorias" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None">
-            <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+    <form id="form1" runat="server" class="table-hover">
+    <div style="text-align: center">
+        <div class="warning">
+  <h1>Categorías</h1>
+</div>
+        <asp:GridView  ID="dgCategorias" runat="server" AutoGenerateColumns="False" CellPadding="4" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" HorizontalAlign="Center" CellSpacing="2" ForeColor="Black" Width="541px" CssClass="table">
             <Columns>
                 <asp:BoundField DataField="CategoryName" HeaderText="Category Name" />
                 <asp:BoundField DataField="Description" HeaderText="Description" />
-                <asp:HyperLinkField DataNavigateUrlFields="CategoryID" DataNavigateUrlFormatString="FrmProducts.aspx?productId={0}" DataTextField="CategoryID" Text="Ir" />
+                <asp:HyperLinkField DataNavigateUrlFields="CategoryID" DataNavigateUrlFormatString="FrmProducts.aspx?Categoria={0}" DataTextField="CategoryID" Text="Ir" >
+                <ControlStyle Width="20px" />
+                </asp:HyperLinkField>
             </Columns>
-            <EditRowStyle BackColor="#999999" />
-            <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-            <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-            <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
-            <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
-            <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
-            <SortedAscendingCellStyle BackColor="#E9E7E2" />
-            <SortedAscendingHeaderStyle BackColor="#506C8C" />
-            <SortedDescendingCellStyle BackColor="#FFFDF8" />
-            <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
+            <FooterStyle BackColor="#CCCCCC" />
+            <HeaderStyle BackColor="Black" Font-Bold="True" ForeColor="White" />
+            <PagerStyle BackColor="#CCCCCC" ForeColor="Black" HorizontalAlign="Left" />
+            <RowStyle BackColor="White" />
+            <SelectedRowStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />
+            <SortedAscendingCellStyle BackColor="#F1F1F1" />
+            <SortedAscendingHeaderStyle BackColor="Gray" />
+            <SortedDescendingCellStyle BackColor="#CAC9C9" />
+            <SortedDescendingHeaderStyle BackColor="#383838" />
         </asp:GridView>
     </div>
     </form>

@@ -1,5 +1,7 @@
 C:\SecureTraining\XSSDemo\XSSDemo\bin\XSSDemo.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\XSSDemo.pdb
+C:\SecureTraining\XSSDemo\XSSDemo\bin\AntiXssLibrary.dll
+C:\SecureTraining\XSSDemo\XSSDemo\bin\HtmlSanitizationLibrary.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\Microsoft.Web.Infrastructure.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\Newtonsoft.Json.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Net.Http.Formatting.dll
@@ -11,6 +13,8 @@ C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Web.Razor.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Web.WebPages.Deployment.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Web.WebPages.dll
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Web.WebPages.Razor.dll
+C:\SecureTraining\XSSDemo\XSSDemo\bin\AntiXssLibrary.xml
+C:\SecureTraining\XSSDemo\XSSDemo\bin\HtmlSanitizationLibrary.xml
 C:\SecureTraining\XSSDemo\XSSDemo\bin\Newtonsoft.Json.xml
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Net.Http.Formatting.xml
 C:\SecureTraining\XSSDemo\XSSDemo\bin\System.Web.Helpers.xml

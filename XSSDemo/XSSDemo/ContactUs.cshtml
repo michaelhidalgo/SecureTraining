@@ -1,9 +1,13 @@
-﻿@{
+﻿@using Microsoft.Security.Application;
+@{
     Layout = null;
     var context = HttpContext.Current;
     var request = context.Request;
 
     var username = request.Unvalidated.QueryString["username"];
+
+    var result = Microsoft.Security.Application.Sanitizer.GetSafeHtmlFragment(username);
+    
 }
 <script src="~/Scripts/bootstrap.js"></script>
 <link href="~/Content/bootstrap.css" rel="stylesheet" />
@@ -27,6 +31,6 @@
             <button type="submit" class="btn btn-default">Enviar</button>
         </form>
     </div>
-    <div class="highlight" id="message">Usuario : @Html.Raw(username)</div>
+    <div class="highlight" id="message">Usuario :@Html.Raw(result)</div>
 </body>
 </html>

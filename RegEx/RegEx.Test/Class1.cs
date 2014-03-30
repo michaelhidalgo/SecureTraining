@@ -5,21 +5,21 @@ namespace RegEx.Test
    
     public class RegularExpressionsTest
     {
-        private const string NumberPattern = "^d/$";
+        private const string NumberPattern = "^d\$";
         private static readonly string EmailPattern=@"^([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$";
         private static readonly string ZipCodePatten = "";
 
         [Test]
         public void IsNumeric()
         {
-            var input = "123455";
+            var input = "123454";
             var result = RegularExpressions.Match(input, NumberPattern);
             Assert.IsTrue(result);
         }
         [Test]
         public void IsNotNumeric ()
         {
-            var input = "01234565##";
+            var input = "012345##";
             var result = RegularExpressions.Match(input, NumberPattern);
             Assert.IsFalse(result);
         }
@@ -27,7 +27,7 @@ namespace RegEx.Test
         [Test]
         public void IsEmail()
         {
-            var input = "michael.hidalgo@owasp.org";
+            var input = "michael.hidalgoowasp.org";
             var result = RegularExpressions.Match(input, EmailPattern);
             Assert.IsTrue(result);
         }
@@ -37,7 +37,7 @@ namespace RegEx.Test
         public void NotValidEmail()
         {
             var watcher = new Stopwatch();
-            var input = "michaelhidalgoowaspsmichaelhidalgoowasps.org";
+            var input = "michaelhidalgoowaspsmichaelhidalgoowasps.orgmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowaspsmichaelhidalgoowasps";
             watcher.Start();
             var result = RegularExpressions.Match(input, EmailPattern);
             watcher.Stop();
